@@ -1,0 +1,8 @@
+github.com/electricbubble/guia2 v0.0.1 h1:vd03BmUPhc+K5cCTo3RbMZkiiHRoRXJx9WUSEDEr68M=
+github.com/electricbubble/guia2 v0.0.1/go.mod h1:NwTWoR2/1RlO5V77QWiiOg1IkDDDWyJtLUQ+3Jj5lOI=
+github.com/electricbubble/opencv-helper v0.0.1 h1:bN9i3qGXFKTy2I4ZSCTJGGq9GPjvXwTAP0UFFCyK2CY=
+github.com/electricbubble/opencv-helper v0.0.1/go.mod h1:4cig7lXb2RXRR3WeQzeoAmPSWBvUicQ1SEf2HwNlHco=
+gocv.io/x/gocv v0.23.0 h1:3Fgbt06/uR8Zf9emWndhjbUjdrw+nto69R/b4noFydY=
+gocv.io/x/gocv v0.23.0/go.mod h1:Rar2PS6DV+T4FL+PM535EImD/h13hGVaHhnCu1xarBs=
+gocv.io/x/gocv v0.24.0 h1:xtm5AnFNUtFvSmU+R/CgX7FguL7EDGEubhDdviX2rPY=
+gocv.io/x/gocv v0.24.0/go.mod h1:Rar2PS6DV+T4FL+PM535EImD/h13hGVaHhnCu1xarBs=
